@@ -1,0 +1,24 @@
+
+#results{
+    /* border: 2px solid red; */
+    height: auto;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    
+    /* width: 80%; */
+}
+.news{
+    display: flex;
+    align-content: space-around;
+    border: 1px solid rgb(14, 9, 9);
+    margin-top: 10px;
+   
+}
+.news img{
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+ 
+
+}

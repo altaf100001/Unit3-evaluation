@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#sidebar{
+    height: 600px;
+    width: 20%;
+    /* border: 1px solid red; */
+    background-color: #fdead6;
+    padding: 20px;
+    box-sizing: border-box;
+    /* margin-top: 60px; */
+    /* position: fixed; */
+}
+#sidebar h3{
+    background-color: teal;
+    padding: 10px;
+}
+
+#align{
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* margin-top: 50px; */
+}
+
+#results{
+    /* border: 2px solid red; */
+    height: auto;
+    width: 80%;
+    padding: 10px;
+    
+    /* width: 80%; */
+}
+.news{
+    display: flex;
+    align-content: space-around;
+    border: 1px solid rgb(14, 9, 9);
+    margin-top: 10px;
+   
+}
+.news img{
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+ 
+
+}

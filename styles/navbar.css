@@ -1,0 +1,23 @@
+
+
+
+header{
+    height: 70px;
+    /* border: 1px solid black; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* position: fixed; */
+    background-color: #fdead6;
+    
+  }
+
+  
+  header input{
+    width: 80%;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+  }
